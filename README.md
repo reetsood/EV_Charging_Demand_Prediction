@@ -6,7 +6,7 @@ As electric vehicle (EV) adoption rapidly increases, city and state planners mus
 
 ## 📌 Problem Statement
 
-With the growth of electric vehicles in Washington State, inadequate planning for charging infrastructure can cause congestion, long wait times, and ultimately hinder sustainability efforts. Using historical vehicle registration data provided by the Washington State Department of Licensing, this project builds a regression model to **forecast future EV adoption trends**, helping stakeholders prepare for increased charging demand.
+With the growth of electric vehicles, inadequate planning for charging infrastructure can cause congestion, long wait times, and ultimately hinder sustainability efforts. Using historical vehicle registration data provided by the Washington State Department of Licensing, this project builds a regression model to **forecast future EV adoption trends**, helping stakeholders prepare for increased charging demand.
 
 ---
 
