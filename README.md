@@ -74,6 +74,12 @@ The dataset contains monthly records of vehicle registrations from **January 201
 - Identified high-growth counties to prioritize infrastructure  
 - Provided valuable data-driven recommendations for planning
 
+## Future Scope
+
+- Extending the prediction window from 3 years to 5–10 years for long-term planning.
+- Expanding coverage to other states or specific regions within states.
+- Incorporating regional factors (e.g., population growth, policy changes, climate) to make localized predictions.
+- Adding real-time data updates so predictions adjust dynamically.
 
 
 
